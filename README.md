@@ -1,6 +1,6 @@
 # programs
 
-List of most-haves by OS. Both portable and installer programs featured.
+List of must-haves by OS. Featuring both portable and installer programs.
 
 ## Linux 
 
@@ -38,6 +38,7 @@ Base image: `Windows 10 x64`
 - Oracle VM VirtualBox
 - Calibre
 - Win32DiskImager
+- rufus
 - Dropbox
 - Putty
 - Slack
