@@ -8,14 +8,16 @@ Base image: `LUbuntu 17.04`
 
 > Tip: Use [provision.sh](https://github.com/aperkaz/vagrant-lxde/blob/master/provision.sh) as an starting point
 
-- Kupfer
 - Terminator
+- Redshift
+- Kupfer
 - Git-Kraken
 - Vokoscreen
 - Shutter
 - NVM
 - Webstorm IDEA
 - nativefier
+- zsh
 
 ## Windows
 
@@ -26,7 +28,7 @@ Base image: `Windows 10 x64`
 - 7-Zip
 - CCleaner
 - Speccy
-- [Daemon Tools Lite
+- Daemon Tools Lite
 - Microsoft Office Professional Plus 2013
 - f.lux
 - IntelliJ IDEA
