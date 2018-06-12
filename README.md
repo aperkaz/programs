@@ -47,3 +47,34 @@ Base image: `Windows 10 x64`
 - Postman
 - Spotify
 - Notepad++
+
+## Android
+
+- Spotify
+- Airbnb
+- Brussels Airlines
+- Czech Airlines
+- eDreams
+- Luftansa
+- Ryanair
+- Vueling
+- Mi Yoigo
+- Movie Collection
+- Olympen Traningscenter
+- Podcast Addict
+- Quick pic
+- Keep
+- Keepass2AndroidPass
+- FBMessanger
+- Mi Fit
+- Dropbox
+- Shazam
+- Slack
+- Splitwise
+- Studentkortet
+- Whatsapp
+- Cam Scanner
+- LaboralKutxa
+- LKPay
+- BankID
+- SEB
