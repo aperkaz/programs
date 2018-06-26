@@ -18,6 +18,7 @@ Base image: `LUbuntu 17.04`
 - Webstorm IDEA
 - nativefier
 - zsh
+- albert
 
 ## Windows
 
