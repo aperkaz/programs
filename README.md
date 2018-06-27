@@ -19,6 +19,7 @@ Base image: `LUbuntu 17.04`
 - nativefier
 - zsh
 - albert
+- clonezilla
 
 ## Windows
 
