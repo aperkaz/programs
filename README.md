@@ -8,18 +8,19 @@ Base image: `LUbuntu 17.04`
 
 > Tip: Use [provision.sh](https://github.com/aperkaz/vagrant-lxde/blob/master/provision.sh) as an starting point
 
-- Terminator
-- Redshift
-- Kupfer
-- Git-Kraken
-- Vokoscreen
-- Shutter
-- NVM
+- [Terminator](https://gnometerminator.blogspot.com/p/introduction.html)
+- [Redshif](http://jonls.dk/redshift/)
+- [Kupfer](https://github.com/kupferlauncher/kupfer)
+- [Git-Kraken](https://www.gitkraken.com/)
+- [Vokoscreen](https://github.com/vkohaupt/vokoscreen)
+- [Shutter](http://shutter-project.org/)
+- [NVM](https://github.com/creationix/nvm)
 - Webstorm IDEA
 - nativefier
-- zsh
+- [zsh](https://github.com/robbyrussell/oh-my-zsh)
 - albert
 - clonezilla
+- [albert](https://albertlauncher.github.io/)
 
 ## Windows
 
