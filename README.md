@@ -21,6 +21,7 @@ Base image: `LUbuntu 17.04`
 - albert
 - clonezilla
 - [albert](https://albertlauncher.github.io/)
+- [timeshift](https://itsfoss.com/backup-restore-linux-timeshift/)
 
 ## Windows
 
